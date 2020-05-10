@@ -1,0 +1,54 @@
+.nav-wrapper{
+    padding: 0 2rem;
+}
+
+.loga{
+    margin-top:1px;
+    width: 290px;
+    height:72px;
+}
+
+.nav_bar{
+    background-color: #1e415e;
+}
+
+.kek{
+    display: flex;
+}
+
+.course{
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.course h1{
+    margin-bottom: 2rem;
+}
+
+.course img{
+    /* max-width: 600px ; */
+   /*  height: auto; */
+}
+
+.course .price.big{
+    font-size: 2.5rem;
+}
+
+.card-action .actions{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.zalupa{
+    width:300px;
+    background-color: aqua;
+
+}
+
+.Penis_huev{
+    width:300px;
+    padding-left:100%;
+}
